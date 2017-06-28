@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>记事</item>
+        <item>心情</item>
+        <item>便签</item>
+        <item>计划</item>
+    </string-array>
+</resources>
